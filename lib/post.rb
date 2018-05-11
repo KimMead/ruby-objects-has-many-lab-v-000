@@ -13,8 +13,7 @@ class Post
     end
   end
 
-def title
+  def title
   self.name
-end
-
   end
+end
