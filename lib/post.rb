@@ -15,6 +15,6 @@ class Post
 
 def title
   @title
-end 
-  
+end
+
   end
