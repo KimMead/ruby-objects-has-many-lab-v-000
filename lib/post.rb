@@ -12,4 +12,9 @@ class Post
       nil
     end
   end
+
+def title
+  @title
+end 
+  
   end
