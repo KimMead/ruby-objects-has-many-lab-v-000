@@ -8,3 +8,4 @@ class Post
   def title
     @title = title
 end
+end 
