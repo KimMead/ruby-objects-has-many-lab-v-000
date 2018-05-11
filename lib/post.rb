@@ -14,7 +14,7 @@ class Post
   end
 
 def title
-  self.title
+  @title = title 
 end
 
   end
